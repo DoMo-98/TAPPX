@@ -6,10 +6,10 @@ Este programa compara artículos y videos basándose en el contenido de texto y 
 # Requisitos 🛠
   - Python 3.7 o superior 🐍
   - Librerías: rake_nltk, nltk, pandas, spacy, sklearn 🤖
-  - Ejecutar lo siguiente para asegurar su desempeño:
+  - Ejecutar el siguiente comando para instalar los requisitos:
   
   ```
-  pip3 install -r requirements.txt
+  pip install -r requirements.txt
   ```
   
 # Funcionamiento ⚙️
